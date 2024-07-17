@@ -1,4 +1,4 @@
-# find-a-frind-core \\ rocketSeat challenge
+# find-a-friend-core \\ rocketSeat challenge
 
 ## Sobre o desafio
 
