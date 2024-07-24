@@ -5,7 +5,7 @@
 <aside>
 ⚠️ Como dissemos anteriormente, **não** vamos mais informar detalhadamente rotas e propriedades dos registros a serem criadas, mas sim, as regras e requisitos que a API deve ter.
 
-O motivo disso é para vocês **também** exercitarem ****o desenvolvimento e a estruturação dessa parte.
+O motivo disso é para vocês **também** exercitarem \*\*\*\*o desenvolvimento e a estruturação dessa parte.
 
 </aside>
 
@@ -28,9 +28,3 @@ Nesse desafio desenvolveremos uma API para a adoção de animais, a FindAFriend 
 [ ] O usuário que quer adotar, entrará em contato com a ORG via WhatsApp <br>
 [ ] Todos os filtros, além da cidade, são opcionais <br>
 [ ] Para uma ORG acessar a aplicação como admin, ela precisa estar logada <br>
-
-### Contexto da aplicação
-
-É comum ao estar desenvolvendo uma API, imaginar como esses dados vão estar sendo utilizados pelo cliente web e/ou mobile.
-
-Por isso, deixamos abaixo o link para o layout da aplicação que utilizaria essa API.
